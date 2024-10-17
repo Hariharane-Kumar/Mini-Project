@@ -1,1 +1,3 @@
-# Mini-Project
+# Mini-Project-Currency Detection
+
+Currency Detection
